@@ -1,0 +1,3 @@
+boto3~=1.34.6
+requests~=2.31.0
+terrasnek~=0.1.13
